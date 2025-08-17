@@ -30,4 +30,4 @@ Antes de ejecutar el notebook, asegúrate de tener instaladas las siguientes bib
 
 # Conclusión 
 
-***Lo mejor para Sr Juan seria eliminar la Tienda 4, ya que es la menos rentable en general. Su único punto fuerte es el bajo coste de envío, pero no compensa sus bajos ingresos, calificación mediocre y pobre desempeño en categorías clave. Además, si se mejora la logística en otra tienda (como en tienda 1), se puede compensar ese coste de envío más bajo.***
+***Lo mejor para Sr Juan seria eliminar la Tienda 4, ya que es la menos rentable en general. Su único punto fuerte es el bajo costo de envío, pero no compensa sus bajos ingresos, calificación mediocre y pobre desempeño en categorías clave. Además, si se mejora la logística en otra tienda (como en tienda 1), se puede compensar ese coste de envío más bajo.***
